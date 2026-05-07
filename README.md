@@ -26,6 +26,15 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 
 ---
 
+## 📝 Papers
+
+- **DepthGate: Confidence-Gated Depth Verification for Multimodal Industrial Anomaly Detection**
+  - **Authors:** Soyeon Kim, Tae-Yong Kim, Jongpil Jeong 
+  - ICCSA 2026 (Accepted)
+
+
+---
+
 ## 📚 Seminar on Thesis Research
 
 | Date | Title & Topic | Link |
