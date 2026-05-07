@@ -30,8 +30,13 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 
 | Date | Title & Topic | Link |
 |------|----------------|------|
+| 2026-04-30 | CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection | [Link](https://www.youtube.com/watch?v=GC_GgHlzyio) |
+| 2026-03-30 | Unveiling Multi-View Anomaly Detection: Intra-view Decoupling and Inter-view Fusion | [Link](https://www.youtube.com/watch?v=iAwwAlokLt4) |
+| 2026-03-25 | Exploring plain ViT features for multi-class unsupervised visual anomaly detection | [Link](https://www.youtube.com/watch?v=7OnbIKHbKTg) |
+| 2026-03-01 | Learning Multi-view Multi-class Anomaly Detection | [Link](https://www.youtube.com/watch?v=pEX0MaxrGdk) |
 | 2026-01-11 | A multimodal industrial anomaly detection method based on mask training and teacher–student | [Link](#) |
 | 2025-02-01 | A multi-scale information fusion framework with interaction-aware global attention for industrial vision anomaly detection and localization | [Link](#) |
+
 
 ---
 
