@@ -64,8 +64,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 ---
 
 ## 💡 Intellectual Property
+### patent
+- 클래스 인지 적응형 융합을 통한 통합 다중 클래스 이상 탐지 방법 및 장치(진행중)
 
 ### Program Registrations
+- 클래스 인지 적응형 융합을 통한 통합 다중 클래스 이상 탐지 방법 및 장치
+  - 등록번호: 
 
 - 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램  
   - 등록번호: 110171-0029501
