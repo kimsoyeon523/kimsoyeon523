@@ -30,9 +30,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 - **DepthGate: Confidence-Gated Depth Verification for Multimodal Industrial Anomaly Detection**
   - **Authors:** Soyeon Kim, Tae-Yong Kim, Jongpil Jeong 
   - ICCSA 2026 (Accepted)
-- **CAF-AD: Class-Aware Few-Shot Adaptation for Unified Multi-Class Anomaly Detection**
-  - **Authors:** Soyeon Kim, Yuna Myeong, Tae-hee Lim, Jinhyo Kang, Jongpil Jeong
-  - ACCV 2026 (To be Submitted)
+
 
 ---
 
@@ -55,7 +53,13 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 | 2026-03-04 | Learning Multi-view Multi-class Anomaly Detection | [Link](https://www.youtube.com/watch?v=pEX0MaxrGdk) |
 | 2026-03-25 | Exploring plain ViT features for multi-class unsupervised visual anomaly detection | [Link](https://www.youtube.com/watch?v=7OnbIKHbKTg) |
 | 2026-04-01 | Unveiling Multi-View Anomaly Detection: Intra-view Decoupling and Inter-view Fusion | [Link](https://www.youtube.com/watch?v=iAwwAlokLt4) |
+| 2026-04-30 | Human intention recognition by deep LSTM and transformer networks for real-time human–robot collaboration | [Link](https://www.youtube.com/watch?v=yLDg1TkM2Vg) |
 | 2026-05-06 | CNC: Cross-modal Normality Constraint for Unsupervised Multi-class Anomaly Detection | [Link](https://www.youtube.com/watch?v=GC_GgHlzyio) |
+| 2026-05-30 | ZUMA: Training-Free Zero-Shot Unified Multimodal Anomaly Detection (IEEE TPAMI) | [Link](https://www.youtube.com/watch?v=-0hi29Q_jSs) |
+| 2026-07-12 | MoEAD: A Parameter-Efficient Model for Multi-class Anomaly Detection | [Link](https://www.youtube.com/watch?v=wK4VvQ2wVNA) |
+| 2026-08-28 | ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning | [Link](https://www.youtube.com/watch?v=yN4VB1x97dI) |
+
+
 
 ---
 
@@ -75,12 +79,15 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at Sungkyunkwa
 ---
 
 ## 💡 Intellectual Property
-### patent
-- 클래스 인지 적응형 융합을 통한 통합 다중 클래스 이상 탐지 방법 및 장치(진행중)
+
 
 ### Program Registrations
-- 클래스 인지 적응형 융합을 통한 통합 다중 클래스 이상 탐지 방법 및 장치
-  - 등록번호: 
+
+- 클래스 인지 적응형 융합을 이용한 통합 다중 클래스 이상 탐지 방법 및 장치
+  - 등록번호: ASSET_0016098 *(NIPA 소프트웨어자산뱅크, 등록일 2026.07.09, NTIS 소프트웨어 ID 202607080008)*
+
+- 다중 모달 산업 이상 탐지를 위한 신뢰도 게이팅 기반 깊이 검증 (DepthGate)
+  - 등록번호: ASSET_0016099 *(NIPA 소프트웨어자산뱅크, 등록일 2026.07.09, NTIS 소프트웨어 ID 202607090006)*
 
 - 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램  
   - 등록번호: 110171-0029501
